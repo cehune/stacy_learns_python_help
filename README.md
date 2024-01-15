@@ -1,3 +1,3 @@
 # stacy_learns_python_help
 
-Wassup World
+Rudimentary Calculator Projec to help Stacy Learn to Code in Python
